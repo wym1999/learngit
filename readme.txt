@@ -8,3 +8,4 @@ Creating a new branch is quick AND simple
 >>>>>>> freature1
 Creating a new branch is quick and simple
 I love eating
+I love my dog
